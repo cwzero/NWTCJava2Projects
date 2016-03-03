@@ -8,7 +8,9 @@
 
 [Week 4 Assignment - Trains](https://github.com/cwzero/ILikeTrains)
 
-[Week 5 Assignment - String Processing](https://github.com/cwzero/StringProcessing.git)
+[Week 5 Assignment - String Processing](https://github.com/cwzero/StringProcessing)
+
+[Week 6 Assignment - Car Rental](https://github.com/cwzero/CarRental)
 
 There are two general ways to access the projects from eclipse.  
 The first is just to hit download zip, extract the file and import existing project. 
