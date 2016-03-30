@@ -12,6 +12,8 @@
 
 [Week 6 Assignment - Car Rental](https://github.com/cwzero/CarRental)
 
+[Week 8 Assignment - Stream Processing](https://github.com/cwzero/StreamProcessing)
+
 There are two general ways to access the projects from eclipse.  
 The first is just to hit download zip, extract the file and import existing project. 
 
