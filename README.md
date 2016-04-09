@@ -14,6 +14,8 @@
 
 [Week 8 Assignment - Stream Processing](https://github.com/cwzero/StreamProcessing)
 
+[Week 9 Assignment - Week 9](https://github.com/cwzero/Week9)
+
 There are two general ways to access the projects from eclipse.  
 The first is just to hit download zip, extract the file and import existing project. 
 
