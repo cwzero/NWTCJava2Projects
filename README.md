@@ -6,7 +6,7 @@
 
 [Week 3 Assignment - GildedRose](https://github.com/cwzero/lab-05-JavaEclipseGildedRose)
 
-[Week 4 Assignment - Trains](https://github.com/cwzero/ILikeTrains)
+[Week 4 Assignment - Trains](https://github.com/cwzero/ILikeTrains/tree/5cbe95dfc669ac241eb63e5a75857c20faaf77cd)
 
 [Week 5 Assignment - String Processing](https://github.com/cwzero/StringProcessing)
 
@@ -15,6 +15,8 @@
 [Week 8 Assignment - Stream Processing](https://github.com/cwzero/StreamProcessing)
 
 [Week 9 Assignment - Week 9](https://github.com/cwzero/Week9)
+
+[Week 10 Assignment - Trains](https://github.com/cwzero/ILikeTrains)
 
 There are two general ways to access the projects from eclipse.  
 The first is just to hit download zip, extract the file and import existing project. 
