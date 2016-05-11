@@ -18,6 +18,8 @@
 
 [Week 10 Assignment - Trains](https://github.com/cwzero/ILikeTrains)
 
+[Final Project - Chat](https://github.com/cwzero/FinalProject)
+
 There are two general ways to access the projects from eclipse.  
 The first is just to hit download zip, extract the file and import existing project. 
 
